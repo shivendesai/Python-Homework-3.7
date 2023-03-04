@@ -1,3 +1,5 @@
+#Written by Shiven Desai
+#This program calculates test scores
 def get_scores():
     # Create an empty list.
     test_scores = []
